@@ -1,0 +1,1 @@
+python "%~dp0dashboard.py"
